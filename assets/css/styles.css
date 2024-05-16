@@ -45,7 +45,7 @@ a{
 }
 
 img{
-  max-width: 50%;
+  max-width: 100%;
   height: auto;
   display: block;
 }
@@ -64,11 +64,11 @@ img{
 }
 
 .login__img{
-  justify-self: left;
+  justify-self: center;
 }
 
 .login__img img{
-  width: 250px;
+  width: 350px;
   margin-top: 1.5rem;
 }
 
