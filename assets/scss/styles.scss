@@ -42,7 +42,7 @@ a{
     text-decoration: none;
 }
 img{
-    max-width: 50%;
+    max-width: 100%;
     height: auto;
     display: block;
 }
@@ -59,7 +59,7 @@ img{
         display: grid;
     }
     &__img{
-        justify-self: center;
+        justify-self: left;
         & img{
             width: 310px;
             margin-top: 1.5rem;
